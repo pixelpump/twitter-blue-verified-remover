@@ -1,4 +1,4 @@
-# Twitter Blue Verified Check Remover
+# Twitter Blue Verified Check Replacer
 Chrome extension to remove verified check from Twitter Blue users while keeping them for regular verified users.
 
 Works by intercepting all Twitter API requests at the XHR level so should theoretically remove Twitter Blue users from the verified tab as well (untested)
